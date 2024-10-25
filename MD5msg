@@ -1,0 +1,2 @@
+var hash = CryptoJS.MD5('weakpass').toString();
+console.log(hash);
